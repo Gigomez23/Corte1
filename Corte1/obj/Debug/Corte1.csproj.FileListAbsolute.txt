@@ -1,0 +1,10 @@
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Corte1\Corte1\Corte1\bin\Debug\Corte1.exe.config
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Corte1\Corte1\Corte1\bin\Debug\Corte1.exe
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Corte1\Corte1\Corte1\bin\Debug\Corte1.pdb
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Corte1\Corte1\Corte1\obj\Debug\Corte1.csproj.AssemblyReference.cache
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Corte1\Corte1\Corte1\obj\Debug\Corte1.RegistroDeEdadesGG.resources
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Corte1\Corte1\Corte1\obj\Debug\Corte1.Properties.Resources.resources
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Corte1\Corte1\Corte1\obj\Debug\Corte1.csproj.GenerateResource.cache
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Corte1\Corte1\Corte1\obj\Debug\Corte1.csproj.CoreCompileInputs.cache
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Corte1\Corte1\Corte1\obj\Debug\Corte1.exe
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\Corte1\Corte1\Corte1\obj\Debug\Corte1.pdb

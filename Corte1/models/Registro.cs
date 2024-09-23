@@ -26,5 +26,11 @@ namespace Corte1.models
                 }
             }
         }
+
+        //Funcion que retorna una persona del arreglo
+        public Persona retornarPersona(int posicion)
+        {
+            return personas[posicion];
+        }
     }
 }
