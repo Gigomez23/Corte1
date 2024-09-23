@@ -13,8 +13,5 @@ namespace Corte1.NewFolder1
         public string apellido { get; set; }
         public DateTime fechaNacimiento { get; set; }
         public string ciudad {  get; set; }
-
-
-
     }
 }
